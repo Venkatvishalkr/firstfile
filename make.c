@@ -3,5 +3,4 @@ void main()
 {
 printf("hell world");
 return 0();
-hiii
 }
